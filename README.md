@@ -5,7 +5,7 @@
 Focused on Web Application Security, Linux, DevSecOps, and secure infrastructure.
 
 
-## Focus Areas
+ Focus Areas
 
 - Web Application Security
 - Linux & Operating Systems
@@ -13,7 +13,7 @@ Focused on Web Application Security, Linux, DevSecOps, and secure infrastructure
 - DevSecOps
 - Vulnerability Research
 
-## Connect
+ Connect
 
 - 🌐 Site — https://parsamajidipour.com
 - 💼 LinkedIn — https://linkedin.com/in/YOUR-LINKEDIN
