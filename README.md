@@ -4,6 +4,7 @@
 
 Focused on Web Application Security, Linux, DevSecOps, and secure infrastructure.
 
+
 ## Focus Areas
 
 - Web Application Security
@@ -12,12 +13,10 @@ Focused on Web Application Security, Linux, DevSecOps, and secure infrastructure
 - DevSecOps
 - Vulnerability Research
 
+
 ## Connect
 
-🌐 Site — https://parsamajidipour.com
-
-💼 LinkedIn — https://linkedin.com/in/...
-
-🐦 X — https://x.com/...
-
-📧 Email — majidipourparsa@gmail.com
+- 🌐 Portfolio — https://parsamajidipour.com
+- 💼 LinkedIn — https://linkedin.com/in/YOUR-LINKEDIN
+- 🐦 X — https://x.com/YOUR_USERNAME
+- 📧 Email — majidipourparsa@gmail.com
