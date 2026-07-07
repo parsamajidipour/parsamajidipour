@@ -4,7 +4,6 @@
 
 Focused on Web Application Security, Linux, DevSecOps, and secure infrastructure.
 
----
 
 ## Focus Areas
 
@@ -13,8 +12,6 @@ Focused on Web Application Security, Linux, DevSecOps, and secure infrastructure
 - Cloud & Infrastructure
 - DevSecOps
 - Vulnerability Research
-
----
 
 ## Connect
 
