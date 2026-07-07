@@ -24,10 +24,7 @@ I focus on web application security, Linux systems, and building secure, resilie
 ### 🌐 Connect With Me
 
 - 🌍 Portfolio: [parsamajidipour.com](https://parsamajidipour.com)
-- 💼 LinkedIn: [add your LinkedIn URL here]
-- 🐦 X (Twitter): [add your X URL here]
+- 💼 LinkedIn: [parsamajidipour]
+- 🐦 X (Twitter): [about_lordfav]
 - 📧 Email: majidipourparsa@gmail.com
 
----
-
-<sub>Open to collaboration on security research, bug bounty write-ups, and DevSecOps tooling.</sub>
