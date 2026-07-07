@@ -1,4 +1,4 @@
-# Hi, I'm Parsa Majidipour 👋
+# Parsa Majidipour 
 
 **Security Researcher • DevOps Engineer**
 
