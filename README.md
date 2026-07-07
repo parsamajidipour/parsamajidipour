@@ -18,7 +18,7 @@ Focused on Web Application Security, Linux, DevSecOps, and secure infrastructure
 
 ## Connect
 
-- 🌐 Portfolio — https://parsamajidipour.com
+- 🌐 Site — https://parsamajidipour.com
 - 💼 LinkedIn — https://linkedin.com/in/YOUR-LINKEDIN
 - 🐦 X — https://x.com/YOUR_USERNAME
 - 📧 Email — majidipourparsa@gmail.com
