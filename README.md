@@ -2,28 +2,23 @@
 
 ### Security Researcher • DevOps Engineer
 
-Passionate about building secure infrastructure, researching vulnerabilities, and exploring Linux systems.
+Focused on Web Application Security, Linux, DevSecOps, and secure infrastructure.
 
 ---
 
-### Focus Areas
+## Focus Areas
 
 - Web Application Security
 - Linux & Operating Systems
-- Cloud Infrastructure
+- Cloud & Infrastructure
 - DevSecOps
-- Security Research
+- Vulnerability Research
 
 ---
 
-### Connect
+## Connect
 
-🌐 https://parsamajidipour.com
-
-💼 https://linkedin.com/in/your-linkedin
-
-🐦 https://x.com/yourusername
-
-📧 majidipourparsa@gmail.com
-
-📍 Muscat, Oman
+- 🌐 Portfolio — https://parsamajidipour.com
+- 💼 LinkedIn — https://linkedin.com/in/YOUR-LINKEDIN
+- 🐦 X — https://x.com/YOUR_USERNAME
+- 📧 Email — majidipourparsa@gmail.com
