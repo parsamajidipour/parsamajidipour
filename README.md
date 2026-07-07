@@ -14,11 +14,6 @@ I focus on web application security, Linux systems, and building secure, resilie
 - ⚙️ **DevSecOps** — integrating security into CI/CD pipelines
 - 🔍 **Vulnerability Research** — CVE hunting and disclosure
 
-### 📌 Featured Work
-
-<!-- Replace these with your real projects/writeups once ready -->
-- [Project Name](#) — one-line description of what it does and why it matters
-- [Write-up Title](#) — short summary of a bug bounty finding or CTF solve
 
 
 ### 🌐 Connect With Me
