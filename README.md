@@ -1,4 +1,4 @@
-*Parsa Majidipour*
+***Parsa Majidipour***
 
 Security Researcher • DevOps Engineer
 
