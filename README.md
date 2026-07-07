@@ -33,6 +33,5 @@ I focus on web application security, Linux systems, and building secure, resilie
 - 🐦 X (Twitter): [about_lordfav](https://x.com/about_lordfav)
 - 📧 Email: majidipourparsa@gmail.com
 
----
 
 <sub>Open to collaboration on security research, bug bounty write-ups, and DevSecOps tooling.</sub>
