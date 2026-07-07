@@ -25,9 +25,6 @@ I focus on web application security, Linux systems, and building secure, resilie
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📈 GitHub Stats
-
-![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsamajidipour&show_icons=true&theme=default)
 
 ### 🌐 Connect With Me
 
