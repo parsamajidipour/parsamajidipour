@@ -20,9 +20,6 @@ I focus on web application security, Linux systems, and building secure, resilie
 - [Project Name](#) — one-line description of what it does and why it matters
 - [Write-up Title](#) — short summary of a bug bounty finding or CTF solve
 
-### 📈 GitHub Stats
-
-![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsamajidipour&show_icons=true&theme=default)
 
 ### 🌐 Connect With Me
 
