@@ -1,6 +1,6 @@
-<h1>Parsa Majidipour</h1>
+## Parsa Majidipour
 
-### Security Researcher • DevOps Engineer
+**Security Researcher • DevOps Engineer**
 
 Focused on Web Application Security, Linux, DevSecOps, and secure infrastructure.
 
