@@ -1,4 +1,5 @@
 ***Parsa Majidipour***
+
 Security Researcher 
 
 I focus on web application security, Interested in Linux systems, and Offensive Security. I enjoy breaking things to understand how to make them stronger — then automating the fix.
