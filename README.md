@@ -32,7 +32,7 @@ I focus on web application security, Interested in Linux systems, and Offensive 
 - 🌍 Portfolio: [parsamajidipour.com](https://parsamajidipour.com)
 - 💼 LinkedIn: [parsamajidipour](https://linkedin.com/in/parsamajidipour)
 - 🐦 X (Twitter): [about_lordfav](https://x.com/about_lordfav)
-- 📧 Email: majidipourparsa@gmail.com
+- 📧 Email: contact@parsamajidipour.com
 
 
 <sub>Open to collaboration on security research, bug bounty write-ups, and DevSecOps tooling.</sub>
