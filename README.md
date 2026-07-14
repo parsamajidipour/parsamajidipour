@@ -8,11 +8,12 @@ I focus on web application security, Interested in Linux systems, and Offensive 
 
 ### 🔭 What I Work On
 
-- 🛡️ **Web Application Security** — finding and reporting vulnerabilities
-- 🐧 **Linux & Operating Systems** — deep systems-level understanding
-- ☁️ **Cloud & Infrastructure** — designing secure, scalable environments
-- ⚙️ **DevSecOps** — integrating security into CI/CD pipelines
-- 🔍 **Vulnerability Research** — CVE hunting and disclosure
+- 🛡️ Web Application Security
+- 🐧 Linux Systems
+- 🌐 Computer Networking
+- ⚔️ Offensive Security
+- 📚 Technical Documentation & Security Notes
+- 🔍 Vulnerability Research
 
 ### 🛠️ Tech Stack
 
